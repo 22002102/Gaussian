@@ -67,7 +67,8 @@ for i in range(n):
 
 ## Output:
 
-![image](https://github.com/22002102/Gaussian/assets/119091638/e4e2a148-eeab-48e3-aac0-745cbc9e6ad9)
+![image](https://github.com/22002102/Gaussian/assets/119091638/e10fdda7-e895-42b9-8ffe-0c5156ecd020)
+
 
 
 ## Result:
